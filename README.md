@@ -25,7 +25,7 @@ python src/train/train.py --config configs/insdn.yaml
 ```
 
 ## Datasets
-- SWaT
-- InSDN
-- Credit Card Fraud
-- Gasoil Heating Loop (GHL)# CLATNet
+- SWaT []
+- InSDN []
+- Credit Card Fraud []
+- Gasoil Heating Loop (GHL) []
